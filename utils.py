@@ -12,7 +12,8 @@ def add(a: int, b: int) -> int:
 
 def subtract(a: int, b: int) -> int:
     """
-    This function subtracts two numbers and returns the result."""
+    This function subtracts two numbers and returns the result.
+    """
     return a - b
 
 
